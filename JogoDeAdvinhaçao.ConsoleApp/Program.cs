@@ -170,7 +170,8 @@ class Program
                 pontuacao -= 50;
             }
             else
-            {
+            {  
+        
                 pontuacao -= 20;
             }
 
