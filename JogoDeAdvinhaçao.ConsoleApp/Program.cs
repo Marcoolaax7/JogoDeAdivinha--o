@@ -198,9 +198,9 @@ class Program
             string? opcaoContinuar = Console.ReadLine();
 
             if (opcaoContinuar?.ToUpper() != "S")
-                return false;
+                return true;
             
-            return true;
+            return false;
 
     }
 
